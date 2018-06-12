@@ -1,0 +1,8 @@
+C:\Users\MobyDi\Documents\Visual Studio 2017\Projects\Pipeline\Pipeline\bin\Debug\Pipeline.exe.config
+C:\Users\MobyDi\Documents\Visual Studio 2017\Projects\Pipeline\Pipeline\bin\Debug\Pipeline.exe
+C:\Users\MobyDi\Documents\Visual Studio 2017\Projects\Pipeline\Pipeline\bin\Debug\Pipeline.pdb
+C:\Users\MobyDi\Documents\Visual Studio 2017\Projects\Pipeline\Pipeline\obj\Debug\Pipeline.csprojResolveAssemblyReference.cache
+C:\Users\MobyDi\Documents\Visual Studio 2017\Projects\Pipeline\Pipeline\obj\Debug\Pipeline.csproj.CoreCompileInputs.cache
+C:\Users\MobyDi\Documents\Visual Studio 2017\Projects\Pipeline\Pipeline\obj\Debug\Pipeline.exe
+C:\Users\MobyDi\Documents\Visual Studio 2017\Projects\Pipeline\Pipeline\obj\Debug\Pipeline.pdb
+C:\Users\MobyDi\Documents\Visual Studio 2017\Projects\Pipeline\Pipeline\bin\Debug\Resorses\factories.csv
